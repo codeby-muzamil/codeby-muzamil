@@ -1,55 +1,46 @@
-<div align="center">
+<div style="max-width: 850px; min-width: 320px; margin: 0 auto;">
 
-![Welcome to Muhammad Muzzamil Mughal's Github](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=240&section=header&text=Welcome%20to%20Muhammad%20Muzzamil%20Mughal's%20Github&fontSize=30&fontColor=9ecbff&animation=fadeIn&fontAlignY=38&desc=%3C%2F%3E&descAlignY=62&descSize=28)
+<p align="center">
+  <img src="BanerGit.png" width="100%"/>
+</p>
 
-[![Gmail](https://img.shields.io/badge/GMAIL-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzzamilmughal26@gmail.com)
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muzzamilmughal26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-### ⚙️ Technologies
-
-![Python](https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2F81F7?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1F6FEB?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2F81F7?style=for-the-badge&logo=css3&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/Flutter-1F6FEB?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-2F81F7?style=for-the-badge&logo=dart&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1F6FEB?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2F81F7?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-1F6FEB?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
+<h2 align="center">
+  <i>Technologies</i>
+</h2>
 
 <div align="center">
 
-### 📊 Statistics
-
-#### Muhammad Muzzamil Mughal's Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=codeby-muzamil&theme=github-dark&hide_border=true&area=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeby-muzamil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-muzamil&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeby-muzamil&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 👤 About Me
+<img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-1F6FEB?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1F6FEB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Flutter-1F6FEB?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-1F6FEB?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Git-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-1F6FEB?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
 </div>
+
+<h2 align="center">
+  <i>Statistics</i>
+</h2>
+
+<p align="center">
+  Muhammad Muzzamil Mughal's Contribution Graph
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeby-muzamil&bg_color=0d1117&color=9ecbff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>
+
+<h2 align="center">
+  <i>About Me</i>
+</h2>
 
 <table>
 <tr>
@@ -64,16 +55,17 @@ Hello! My name is **Muhammad Muzzamil Mughal**, and I am a Software Engineering 
 </tr>
 </table>
 
----
+<h2 align="center">
+  <i>Hobbies & Goals</i>
+</h2>
 
 <div align="center">
 
-### 🎯 Hobbies & Goals
-
 Software Engineering developer from Pakistan.
-
-Exploring Flutter & Dart for cross-platform mobile apps, learning AI, and building practical, real-world projects.
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
+</div>
+
+<br/>
 </div>
